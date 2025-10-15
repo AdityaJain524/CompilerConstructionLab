@@ -1,1 +1,1 @@
-"# CompileerConstructionLab" 
+CompilerConstructionLab
